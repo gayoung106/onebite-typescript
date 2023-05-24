@@ -4,6 +4,7 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
+
     "moduleDetection": "force"
   },
   "ts-node": {
